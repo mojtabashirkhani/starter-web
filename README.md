@@ -4,6 +4,8 @@
 
 ## Purpose
 
+## Deployment
+
 ## How To Contribute
 
 This repository is for showing how Git and GitHub work
