@@ -1,8 +1,8 @@
 # Starter Web Peroject
 
 This is a simeple website project 
-for showing how to use Git and Github toghether
-
+for showing how to use Git and Github toghether.
+Adding a line for rebasing example.
 ## Intorduction
 
 This is example is to show different parts of the Git repository and various
