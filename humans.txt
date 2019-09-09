@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mojtaba Shirkhani mojtabashirkhani@gmail.com
 
 # THANKS
 
