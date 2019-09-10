@@ -2,8 +2,7 @@
 
 This is a simeple website project 
 for showing how to use Git and Github toghether.
-Adding a line for rebasing example,
-then more changes from myfeature branch too
+Updating for emergency fix after stashing.
 ## Intorduction
 
 This is example is to show different parts of the Git repository and various
